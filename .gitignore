@@ -4,7 +4,7 @@
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
 
 # config
-/config/
+#/config/
 
 # User-specific stuff:
 .idea/workspace.xml
@@ -90,7 +90,7 @@ sftp-config.json
 /bin/*
 !bin/console
 !bin/symfony_requirements
-/vendor/
+#/vendor/
 
 # Assets and user uploads
 /web/bundles/
